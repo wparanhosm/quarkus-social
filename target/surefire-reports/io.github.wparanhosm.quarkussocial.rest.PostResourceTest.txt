@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.github.wparanhosm.quarkussocial.rest.PostResourceTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.016 s - in io.github.wparanhosm.quarkussocial.rest.PostResourceTest

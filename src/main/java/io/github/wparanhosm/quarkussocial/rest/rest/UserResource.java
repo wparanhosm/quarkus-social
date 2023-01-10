@@ -1,4 +1,4 @@
-package io.github.wparanhosm.quarkussocial.rest;
+package io.github.wparanhosm.quarkussocial.rest.rest;
 import io.github.wparanhosm.quarkussocial.domain.model.User;
 import io.github.wparanhosm.quarkussocial.rest.dto.CreateUserRequest;
 import io.github.wparanhosm.quarkussocial.rest.dto.ResponseError;

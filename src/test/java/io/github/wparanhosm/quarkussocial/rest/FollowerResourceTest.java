@@ -5,6 +5,7 @@ import io.github.wparanhosm.quarkussocial.domain.model.User;
 import io.github.wparanhosm.quarkussocial.domain.model.repository.FollowerRepository;
 import io.github.wparanhosm.quarkussocial.rest.dto.FollowerRequest;
 import io.github.wparanhosm.quarkussocial.rest.dto.ResponseError;
+import io.github.wparanhosm.quarkussocial.rest.rest.FollowerResource;
 import io.quarkus.test.common.http.TestHTTPEndpoint;
 import io.quarkus.test.junit.QuarkusTest;
 import io.restassured.http.ContentType;

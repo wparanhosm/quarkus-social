@@ -1,2 +1,5 @@
-io\github\wparanhosm\NativeGreetingResourceIT.class
 io\github\wparanhosm\GreetingResourceTest.class
+io\github\wparanhosm\quarkussocial\rest\PostResourceTest.class
+io\github\wparanhosm\quarkussocial\rest\FollowerResourceTest.class
+io\github\wparanhosm\quarkussocial\rest\UserResourceTest.class
+META-INF\panache-archive.marker

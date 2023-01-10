@@ -5,11 +5,11 @@ import io.github.wparanhosm.quarkussocial.domain.model.User;
 import io.github.wparanhosm.quarkussocial.domain.model.repository.FollowerRepository;
 import io.github.wparanhosm.quarkussocial.domain.model.repository.PostRepository;
 import io.github.wparanhosm.quarkussocial.rest.dto.CreatePostRequest;
+import io.github.wparanhosm.quarkussocial.rest.rest.PostResource;
 import io.quarkus.test.common.http.TestHTTPEndpoint;
 import io.quarkus.test.junit.QuarkusTest;
 import io.restassured.http.ContentType;
 import io.restassured.http.Header;
-import io.vertx.core.cli.annotations.Description;
 import org.junit.jupiter.api.*;
 
 import javax.inject.Inject;
