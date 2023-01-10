@@ -1,0 +1,6 @@
+io\github\wparanhosm\quarkussocial\domain\model\Follower.class
+io\github\wparanhosm\quarkussocial\rest\FollowerResource.class
+io\github\wparanhosm\quarkussocial\domain\model\User.class
+io\github\wparanhosm\GreetingResource.class
+io\github\wparanhosm\quarkussocial\rest\dto\FollowerRequest.class
+io\github\wparanhosm\quarkussocial\domain\model\repository\FollowerRepository.class
